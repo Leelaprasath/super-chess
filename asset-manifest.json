@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://leelaprasath.github.io/super-chess/static/css/main.6b0f5e84.css",
+    "main.js": "https://leelaprasath.github.io/super-chess/static/js/main.ab0ee17c.js",
+    "static/js/787.497f1025.chunk.js": "https://leelaprasath.github.io/super-chess/static/js/787.497f1025.chunk.js",
+    "static/media/f13.png": "https://leelaprasath.github.io/super-chess/static/media/f13.2677a92040230eb653a8.png",
+    "static/media/mainlogo1.png": "https://leelaprasath.github.io/super-chess/static/media/mainlogo1.6eea9ef856bbbe4346d0.png",
+    "static/media/f11.avif": "https://leelaprasath.github.io/super-chess/static/media/f11.ebc3ca68a581edbcff5e.avif",
+    "static/media/bgadmin.avif": "https://leelaprasath.github.io/super-chess/static/media/bgadmin.6c40a4345e9c4d68be22.avif",
+    "static/media/f12.avif": "https://leelaprasath.github.io/super-chess/static/media/f12.f3078db60037ca6f716a.avif",
+    "static/media/bgchess.avif": "https://leelaprasath.github.io/super-chess/static/media/bgchess.c2d5d7ddc44765d7471a.avif",
+    "index.html": "https://leelaprasath.github.io/super-chess/index.html",
+    "main.6b0f5e84.css.map": "https://leelaprasath.github.io/super-chess/static/css/main.6b0f5e84.css.map",
+    "main.ab0ee17c.js.map": "https://leelaprasath.github.io/super-chess/static/js/main.ab0ee17c.js.map",
+    "787.497f1025.chunk.js.map": "https://leelaprasath.github.io/super-chess/static/js/787.497f1025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0f5e84.css",
+    "static/js/main.ab0ee17c.js"
+  ]
+}
